@@ -10,7 +10,7 @@ In my particular scenario, this code correcly processed about 80% of my project.
 
 ### Usage
 
-	$ python3 python2java.py SCRIPT_TO_CONVERY.py
+	$ python3 python2java.py SCRIPT_TO_CONVERT.py
 
 
 

@@ -119,7 +119,7 @@ def main():
     
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print("usage: python3 p2j.py SCRIPT_TO_CONVERY.py")
+        print("usage: python3 p2j.py SCRIPT_TO_CONVERT.py")
         exit
 
     main()
